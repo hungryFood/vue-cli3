@@ -1,0 +1,21 @@
+{
+  "name": "vue-cli3",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "carousel-js": "^4.0.0",
+    "vue": "^2.6.6",
+    "vue-router": "^3.0.2",
+    "vue-swipe": "^2.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.5.0",
+    "@vue/cli-service": "^3.5.0",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
